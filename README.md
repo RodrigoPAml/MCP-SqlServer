@@ -4,6 +4,8 @@ A MCP Server implementation in C# for LLM integration with SQL Server tested wit
 
 The server register logs into a **mcp_server.log** file
 
+**Caution, the LLM can modify your database**
+
 # Tools
 
 List of tools provided to the LLM
