@@ -106,6 +106,8 @@ namespace Server.Tools
                     rows.Add(dict);
                 }
 
+                transaction.Commit();
+
                 return JsonSerializer.Serialize(rows, new JsonSerializerOptions { WriteIndented = false });
 
             }
