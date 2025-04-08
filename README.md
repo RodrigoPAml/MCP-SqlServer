@@ -1,6 +1,6 @@
 # MCP-SqlServer
 
-A MCP Server implementation in C# for LLM integration with SQL Server (STDIO) tested with Claude Desktop
+A MCP Server (STDIO) implementation in C# for LLM integration with SQL Server tested with Claude Desktop
 
 The server register logs into a **mcp_server.log** file
 
