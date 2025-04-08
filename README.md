@@ -16,7 +16,7 @@ List of tools provided to the LLM
 
 1. Fill the _env.database_ with the connection string from your SQL Server
 2. Compile the project
-3. In the Claude Destkop Go _File->Configurations->Developer_ and edit the MCP configuration
+3. In the Claude Destkop Go _File->Configurations->Developer_ and edit the MCP configuration (need to restart claude)
 4. Paste the json as:
 
 ```json
