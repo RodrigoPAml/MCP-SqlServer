@@ -1,6 +1,6 @@
 # MCP-SqlServer
 
-A MCP Server implementation in C# for LLM integration with SQL Server tested with Claude
+A MCP Server implementation in C# for LLM integration with SQL Server tested with Claude Desktop
 
 The server register logs into a **mcp_server.log** file
 
@@ -16,8 +16,8 @@ List of tools provided to the LLM
 
 1. Fill the _env.database_ with the connection string from your SQL Server
 2. Compile the project
-3. In the Claude Destkop Go _File->Configurations->Developer_ and edit the MCP configuration (need to restart claude)
-4. Paste the json as:
+3. In the Claude Destkop Go _File->Configurations->Developer_ and edit the MCP configuration 
+4. Paste the json as: 
 
 ```json
 {
@@ -35,7 +35,8 @@ List of tools provided to the LLM
     }
 }
 ```
-
+5. Restart Claude Desktop
+   
 # Testing
 
 Open Claude Desktop and if everything is configured well you should be able to see this
