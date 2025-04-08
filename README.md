@@ -38,7 +38,7 @@ List of tools provided to the LLM
 
 # Testing
 
-Open Claude Desktop and if everithing is configured well you should be able to see this
+Open Claude Desktop and if everything is configured well you should be able to see this
 
 ![image](https://github.com/user-attachments/assets/4cc9fcf2-944d-46f7-8f16-d46eaa1ed59a)
 
