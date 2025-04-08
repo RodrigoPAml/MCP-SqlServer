@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCP-SqlServer", "MCP-SqlServer.csproj", "{74865A75-AA6B-45AC-886F-9E76FAF287C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74865A75-AA6B-45AC-886F-9E76FAF287C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74865A75-AA6B-45AC-886F-9E76FAF287C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74865A75-AA6B-45AC-886F-9E76FAF287C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74865A75-AA6B-45AC-886F-9E76FAF287C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {294401C0-0B14-4EB9-9F01-9EFF047C24E0}
+	EndGlobalSection
+EndGlobal
