@@ -16,7 +16,7 @@ List of tools provided to the LLM
 
 1. Fill the _env.database_ with the connection string from your SQL Server
 2. Compile the project
-3. In the Claude Destkop Go File->Configurations->Developer and edit the MCP configuration
+3. In the Claude Destkop Go _File->Configurations->Developer_ and edit the MCP configuration
 4. Paste the json as:
 
 ```json
@@ -38,11 +38,11 @@ List of tools provided to the LLM
 
 # Testing
 
-Open Claude Desktop and if everithing is configured well you should be apple to see this
+Open Claude Desktop and if everithing is configured well you should be able to see this
 
 ![image](https://github.com/user-attachments/assets/4cc9fcf2-944d-46f7-8f16-d46eaa1ed59a)
 
-Click on in and you should be able to see the tools
+Click on the icon and you should be able to see the tools
 
 ![image](https://github.com/user-attachments/assets/bb5a7b83-5459-43d5-b7d0-9d5c5880ff5c)
 
