@@ -1,6 +1,6 @@
 # MCP-SqlServer
 
-A MCP Server for LLM integration with SQL Server tested with Claude
+A MCP Server implementation in C# for LLM integration with SQL Server tested with Claude
 
 The server register logs into a **mcp_server.log** file
 
@@ -61,7 +61,3 @@ Click on in and you should be able to see the tools
 ## Asking for modifications
 
 ![image](https://github.com/user-attachments/assets/57b49aa3-7592-436e-8f67-bff3f54911ae)
-
-
-
-
