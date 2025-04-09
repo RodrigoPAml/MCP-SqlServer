@@ -8,14 +8,14 @@ using ModelContextProtocol.Server;
 namespace Server.Tools
 {
     [McpServerToolType]
-    public static class EchoTool
+    public static class QueryTool
     {
         /// <summary>
         /// Here is the tool for the ai to undestand the database structure.
         /// </summary>
         /// <returns></returns>
-        [McpServerTool(), Description("Get a list of all tables with their respective columns (SQL SERVER).")]
-        public static string GetTablesWithColumnsAndTypes()
+        [McpServerTool(), Description("Get a list of all tables with their respective schema, columns and types (SQL SERVER).")]
+        public static string GetSchema()
         {
             FileLogger.Log("Called GetTablesWithColumnsAndTypes()");
 
@@ -59,7 +59,7 @@ namespace Server.Tools
 
                     tables[tableName].Add(new Dictionary<string, string>
                     {
-                        {"schema", schemaName },
+                        { "schema", schemaName },
                         { "name", columnName },
                         { "type", columnType }
                     });
