@@ -11,7 +11,7 @@ The server register logs into a **mcp_server.log** file
 List of tools provided to the LLM
 
 * **HealthCheck**: Tests if the Microsoft SQL Server Database connection is good and alive.
-* **GetTablesWithColumnsAndTypes**: Get a list of all tables with their respective columns, including schemas.
+* **GetSchema**:Get a list of all tables with their respective schema, columns and types.
 * **Query**: Execute a query into the Microsoft SQL Server database and return the result as a JSON.
 
 # Setup with Claude
