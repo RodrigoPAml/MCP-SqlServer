@@ -11,7 +11,7 @@ The server register logs into a **mcp_server.log** file
 List of tools provided to the LLM
 
 * **HealthCheck**: Tests if the Microsoft SQL Server Database connection is good and alive.
-* **GetSchema**:Get a list of all tables with their respective schema, columns and types.
+* **GetSchema**: Get a list of all tables with their respective schema, columns and types.
 * **Query**: Execute a query into the Microsoft SQL Server database and return the result as a JSON.
 
 # Setup with Claude
@@ -42,24 +42,24 @@ List of tools provided to the LLM
 
 Open Claude Desktop and if everything is configured well you should be able to see this
 
-![image](https://github.com/user-attachments/assets/4cc9fcf2-944d-46f7-8f16-d46eaa1ed59a)
+![image](https://github.com/user-attachments/assets/005590e3-e419-41e4-a3ae-9fec08d6ad7a)
 
 Click on the icon and you should be able to see the tools
 
-![image](https://github.com/user-attachments/assets/bb5a7b83-5459-43d5-b7d0-9d5c5880ff5c)
+![image](https://github.com/user-attachments/assets/af776f81-8e61-46c3-9d9a-24ef08f8d813)
 
 ## Asking for connection check
 
-![image](https://github.com/user-attachments/assets/65f0edb8-25a4-4d36-84bd-a28f0a004e20)
+![image](https://github.com/user-attachments/assets/086c2054-a88a-404b-a00c-a26751e1e7e0)
 
 ## Asking for schema/table informations
 
-![image](https://github.com/user-attachments/assets/834b4717-2f12-4926-853e-31973c25ad2f)
+![image](https://github.com/user-attachments/assets/817dd04c-d530-40fe-8261-fe574ee674b2)
 
 ## Asking for read query
 
-![image](https://github.com/user-attachments/assets/1dfa2186-4e6a-4a54-8aa6-d5f7b5ed7a92)
+![image](https://github.com/user-attachments/assets/727b56e9-cee3-44f5-a4b6-33019771c43a)
 
 ## Asking for modifications
 
-![image](https://github.com/user-attachments/assets/57b49aa3-7592-436e-8f67-bff3f54911ae)
+![image](https://github.com/user-attachments/assets/1af29d63-547f-4ad2-8a37-2eaae039c99b)
