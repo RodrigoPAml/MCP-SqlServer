@@ -17,7 +17,7 @@ namespace Server.Tools
         [McpServerTool(), Description("Get a list of all tables with their respective schema, columns and types (SQL SERVER).")]
         public static string GetSchema()
         {
-            FileLogger.Log("Called GetTablesWithColumnsAndTypes()");
+            FileLogger.Log("Called GetSchema()");
 
             try
             {
